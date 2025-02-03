@@ -122,14 +122,3 @@ A mid-sized construction company faced critical IT challenges due to its relianc
 📌 **Defined a long-term IT staffing strategy** to support company growth.  
 
 This structured IT plan ensures the company is **secure, scalable, and future-ready.**
-
----
-
-## **Next Steps & GitHub Integration**
-- Upload **PowerShell automation scripts** to GitHub with README documentation.
-- Create a **LinkedIn post showcasing this case study** as an IT transformation success story.
-- Use this as a **portfolio piece for future opportunities** in IT infrastructure, automation, or security roles.
-
----
-
-### **[Download PDF Version]** *(Optional: Host a polished PDF version of this on your GitHub/portfolio site.)*
